@@ -1,45 +1,56 @@
-# Automated Bug Bounty Toolkit
+\# Automated Bug Bounty Toolkit
 
 Owner: M Jaswanth Sai
 
 Year: 2025
 
+
+
 This toolkit automates subdomain enumeration, scanning, and report generation.
+
+
 
 Folders:
 
-- utils/: contains Python modules
+\- utils/: contains Python modules
 
-- output/: scan results stored here
+\- output/: scan results stored here
 
-- demo/: example/demo files
+\- demo/: example/demo files
+
+
 
 Tools Included:
 
-- Subdomain discovery: subfinder, amass
+\- Subdomain discovery: subfinder, amass
 
-- Alive host probing
+\- Alive host probing
 
-- Subdomain takeover check
+\- Subdomain takeover check
 
-- Port scanning: nmap
+\- Port scanning: nmap
 
-- HTTP headers enumeration
+\- HTTP headers enumeration
 
-- Directory fuzzing
+\- Directory fuzzing
 
-- Nuclei vulnerability scan (demo)
+\- Nuclei vulnerability scan (demo)
 
-- CMS detection (WordPress/Joomla)
+\- CMS detection (WordPress/Joomla)
 
-- Subdomain screenshots
+\- Subdomain screenshots
 
-- SSL/TLS check
+\- SSL/TLS check
 
-- Open redirect check
+\- Open redirect check
 
-- Markdown/PDF report generation
+\- Markdown/PDF report generation
+
+
 
 Run:
 
-$ python3 main.py# Automated-Bug-Bounty
+$ python3 main.py
+
+
+
