@@ -1,6 +1,6 @@
 \# Automated Bug Bounty Toolkit
 
-Owner: M Jaswanth Sai
+Owner: Kavya Shree Pelluru
 
 Year: 2025
 
